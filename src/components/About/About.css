@@ -1,0 +1,113 @@
+.about-image img {
+    width: auto;
+    height: 30rem;
+    border-radius: 5px;
+}
+
+
+.about-singel-items span{
+    font-size: 60px;
+    color: #dbdbdb;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    line-height: 46px;
+    padding-bottom: 22px;
+}
+.about-singel-items h4{
+    color: #000;
+    font-size: 24px;
+    padding-bottom: 25px;
+}
+
+.page-banner-cont{
+    position: relative;
+    z-index: 5;
+}
+.page-banner-cont h2{
+    font-size: 52px;
+    color: #fff;
+    padding-bottom: 15px;
+}
+.page-banner-cont .breadcrumb{
+    margin: 0;
+    background: none;
+    padding: 0;
+}
+.page-banner-cont .breadcrumb .breadcrumb-item {
+	color: #ffc600;
+	font-size: 18px;
+	font-weight: 600;
+	margin-bottom: 2px;
+}
+.page-banner-cont .breadcrumb .breadcrumb-item a{
+    color: #fff;
+}
+.page-banner-cont .breadcrumb-item + .breadcrumb-item::before {
+	color: #fff;
+	content: "/";
+    font-size: 18px;
+}
+.image-size-adjust{
+    width: auto;
+    height: auto;
+}
+.imagesizeabout{
+    height: 20rem;
+}
+
+
+
+.teachers-cont p{
+    padding-top: 30px;
+}
+
+.singel-teachers{
+    position: relative;
+}
+.singel-teachers .image{
+    border-radius: 5px;
+    overflow: hidden;
+}
+.singel-teachers .image img{
+    -webkit-transition: all 0.4s linear;
+    transition: all 0.4s linear;
+    width: 100%;
+}
+.singel-teachers:hover .image img{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.singel-teachers .cont{
+    position: absolute;
+    bottom: 15px;
+    left: 0;
+    right: 0;
+    width: 80%;
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 0 auto;
+    padding: 15px;
+}
+.singel-teachers .cont a{
+    display: block;
+}
+.singel-teachers .cont a h6{
+    color: #000;
+    font-size: 15px;
+    -webkit-transition: all 0.4s linear;
+    transition: all 0.4s linear;
+}
+.singel-teachers:hover{
+    color: #ffc600;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+ .cont a:hover h6{
+    color: #ffc600;
+    
+}
+
+.singel-teachers .cont span{
+    font-size: 14px;
+    color: #8a8a8a;
+}

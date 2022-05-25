@@ -1,0 +1,8 @@
+.back_img_login{ 
+     background-image: linear-gradient(to left, rgba(216, 202, 202, 0.564), rgba(216, 202, 202, 0.564)), url(../../images/log1.jpg) ;
+     background-size: cover;
+}
+.back_img_logintech{ 
+    background-image: linear-gradient(to left, rgba(216, 202, 202, 0.564), rgba(216, 202, 202, 0.564)), url(../../images/log2.jpg) ;
+    background-size: cover;
+}

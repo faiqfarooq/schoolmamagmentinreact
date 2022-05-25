@@ -1,0 +1,46 @@
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+
+}
+
+
+
+
+
+.h-custom {
+height: calc(100% - 73px);
+}
+@media (max-width: 450px) {
+.h-custom {
+height: 100%;
+}
+}
+
+/* forget password css */
+
+.forgot{
+    background-color: #fff;
+padding: 12px;
+border: 1px solid #dfdfdf;
+}
+
+.padding-bottom-3x {
+padding-bottom: 72px !important;
+}
+
+.card-footer{
+background-color: #fff;
+}
+
+.btn{ 
+
+font-size: 13px;
+}
+
+
+           
+/* end */

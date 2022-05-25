@@ -1,0 +1,35 @@
+.numbershow{
+    width: 2.5rem;
+    
+}
+.nameshow{
+  width: 13.5rem;
+}
+.fathershow{
+  width: 13.5rem;
+}
+.stdcincshow{
+  width: 13rem;
+}
+.rollnumbershow{
+  width: 7.5rem;
+}
+.moreshow{
+  width: 5rem;
+}
+table{
+    border: 1px solid black;
+  }
+ th {
+    border: 1px solid black;
+    
+  }
+ td {
+    border: 1px solid black;
+  
+  }
+
+ .tbody {
+    vertical-align: middle;
+  }
+  
