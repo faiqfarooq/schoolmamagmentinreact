@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-## LIVE DEMO
+### LIVE DEMO
 Live demo of this website with this link >> [https://faiqfarooquniversity.vercel.app/](https://faiqfarooquniversity.vercel.app/)
 ### `npm start`
 
